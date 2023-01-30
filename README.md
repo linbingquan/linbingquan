@@ -4,3 +4,5 @@
 <a href="https://github.com/linbingquan">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=linbingquan&hide_title=true&langs_count=3&hide_border=true" />
 </a>
+
+![](https://komarev.com/ghpvc/?username=linbingquan&color=blue)

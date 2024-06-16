@@ -12,6 +12,7 @@ Dev & Tools
 ![rust](https://img.shields.io/badge/Rust-454545.svg?logo=rust&logoColor=white)
 ![WebGL](https://img.shields.io/badge/WebGL-990000?logo=webgl&logoColor=white "WebGL")
 
+![ReactJS](https://img.shields.io/badge/React-23272f.svg?logo=react&logoColor=58c4dc)
 ![VueJS](https://img.shields.io/badge/Vue-35495e.svg?logo=vuedotjs&logoColor=42b883)
 ![ThreeJS](https://img.shields.io/badge/ThreeJS-454545?logo=three.js&logoColor=white "ThreeJS")
 
